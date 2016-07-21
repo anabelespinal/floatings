@@ -1,0 +1,20 @@
+/* Pon tu código css aqui */
+.caja {
+	border: 1px solid black;
+	width: 700px;
+}
+.yellow {
+	background-color: yellow;
+    width: 200px;
+    height: 150px;
+}
+.blue {
+	background-color: blue;
+    width: 200px;
+    height: 150px;
+}
+.red {
+	background-color: red;
+    width: 200px;
+    height: 150px;
+}
